@@ -1,0 +1,4 @@
+Issued                Expires               Principal
+Oct 23 12:58:38 2017  Oct 23 22:58:38 2017  krbtgt/42.US.ORG@42.US.ORG
+Oct 23 12:58:39 2017  Oct 23 22:58:38 2017  ldap/ldap-proxy.42.us.org@42.US.ORG
+Oct 23 13:28:06 2017  Oct 23 22:58:38 2017  host/vgs-fn1.42.us.org@42.US.ORG
